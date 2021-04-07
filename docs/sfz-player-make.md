@@ -42,7 +42,7 @@ This will play a different sample on each white key in the middle octave. Black 
 
 ## One sample stretched over an octave
 
-Now let's make an SFZ that stretches on sample from C4 to C5. We will use the a.wav file again, and assume that it plays an a4 when played without transposition.
+Now let's make an SFZ that stretches one sample from C4 to C5. We will use the a.wav file again, and assume that it plays an a4 when played without transposition.
 
 ```sfz
 
